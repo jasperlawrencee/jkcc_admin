@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>372212932991-t6bhg4bg7gk8ot1o4q3lrtuk1iu8orb1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.372212932991-t6bhg4bg7gk8ot1o4q3lrtuk1iu8orb1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuli7BloQpiSq_PK07SxMjiHY9TOnsNVs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>372212932991</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arisenlab.jkccAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>jasperkissa-c31ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jasperkissa-c31ed.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:372212932991:ios:36cbdf144a5d49cadc3a4a</string>
+</dict>
+</plist>
