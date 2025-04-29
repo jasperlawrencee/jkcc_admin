@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jkcc_admin/constants.dart';
+import 'package:jkcc_admin/components/constants.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -32,7 +32,18 @@ class _LoginPageState extends State<LoginPage> {
           ),
           child: Column(
             mainAxisSize: MainAxisSize.min,
-            children: [Text('JKCC Admin'), SizedBox(height: defaultPadding)],
+            children: [
+              Text(
+                'JKCC Admin',
+                style: TextStyle(
+                  fontSize: 24,
+                  fontWeight: FontWeight.w800,
+                  color: Colors.black,
+                  decoration: TextDecoration.none,
+                ),
+              ),
+              SizedBox(height: defaultPadding),
+            ],
           ),
         ),
       ),
