@@ -37,9 +37,26 @@ dependencies:
 
   # Firebase
   firebase_core: ^3.13.0
+  firebase_auth: ^5.5.2
 
   # Flutter Launcher Icon
   flutter_launcher_icons: ^0.14.3
+
+  # BLoC
+  flutter_bloc: ^9.1.0
+
+  # Equatable
+  equatable: ^2.0.7
+
+  # Window Size
+  window_size:
+    git:
+      url: https://github.com/google/flutter-desktop-embedding
+      path: plugins/window_size
+
+  # Custom User Repository
+  user_repository:
+    path: packages/user_repository
 
 dev_dependencies:
   flutter_test:
